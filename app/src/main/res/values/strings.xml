@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UemCar</string>
+    <string name="textViewSubTitulo">Log in</string>
+    <string name="textViewSubTitulo2">Sign in</string>
+    <string name="nombre">Introduzca su nombre de usuario</string>
+    <string name="contraseña">Introduzca su contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="RegNombre">Introduzca nombre de usuario</string>
+    <string name="RegContraseña">Introduzca contraseña</string>
+    <string name="RegContraseña2">Repita contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="dentro">Estas dentro de la app</string>
+    <string name="title_activity_main">UemCar</string>
+    <string name="action_cerrar_sesion">Cerrar Sesion</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="publicarViaje">Publicar viaje </string>
+    <string name="buscarViaje">Buscar viaje</string>
+    <string name="misViajes">Mis viajes</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="precio">Precio</string>
+</resources>

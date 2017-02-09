@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070861767055",
+    "firebase_url": "https://proyecto-integrador-1de8c.firebaseio.com",
+    "project_id": "proyecto-integrador-1de8c",
+    "storage_bucket": "proyecto-integrador-1de8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070861767055:android:7e27763165444a3d",
+        "android_client_info": {
+          "package_name": "com.example.agsva_000.proyectointegrador2dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070861767055-c1cvj32lfaof80mkfpsvllg9dstn0l9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtXxWP0DCAA0IWsZiQQyrpiUgUKJ3-IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
